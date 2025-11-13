@@ -1,17 +1,36 @@
-# Epi-Draw
- - Draws convoluted patterns using goniometric functions.
-## Install
-### Windows
-  1. Install [Python](https://www.python.org/), make sure to install pip as well
-  
-  2. Start venv_install.bat
-  
-  3. Start launch.bat 
-  
-### Linux
-  1. Install Python using your package manager if not installed by default
-  
-  2. Start venv_install.sh
-  
-  3. Start launch.sh
-  
+# epi-draw-py
+
+ - Stupid toy which draws epicycle
+ - Yes the controls are horrendous
+ - Yes the graphics is crap and yes what you see swiping in the second window are vectors
+
+Install
+===========================================================
+
+
+
+### Linux/Unix:
+
+To install execute in terminal:
+  ```
+  git clone https://github.com/Sora-3e8/epi-draw-py
+  ./venv_install.sh
+  ```
+To run: 
+  ``` 
+  ./main.py 
+  ```
+
+### Windows:
+
+  Open cmd as administrator and run:
+  ```
+  git clone https://github.com/Sora-3e8/epi-draw-py
+  start venv_install.bat
+  ```
+To run: 
+  ``` 
+  start launch.bat 
+  ```
+
+
