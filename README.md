@@ -1,11 +1,8 @@
 # epi-draw-py
-![alt text](images/epicycle1.png)
-
-
-
  - Stupid toy which draws epicycle
  - Yes the controls are horrendous
  - Yes the graphics is crap and yes what you see swiping in the second window are vectors
+![alt text](images/epicycle1.png)
 
 Controls
 ===========================================================
